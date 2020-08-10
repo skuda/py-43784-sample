@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pycharm-package/pycharm-package.iml" filepath="$PROJECT_DIR$/pycharm-package/pycharm-package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pycharm-sample.iml" filepath="$PROJECT_DIR$/.idea/pycharm-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-script/simple-script.iml" filepath="$PROJECT_DIR$/simple-script/simple-script.iml" />
+    </modules>
+  </component>
+</project>

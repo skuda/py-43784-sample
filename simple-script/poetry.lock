@@ -1,0 +1,20 @@
+[[package]]
+category = "dev"
+description = ""
+develop = true
+name = "pycharm-package"
+optional = false
+python-versions = "^3.7"
+version = "0.1.0"
+
+[package.source]
+reference = ""
+type = "directory"
+url = "../pycharm-package"
+
+[metadata]
+content-hash = "962aa66590c09b9bb4cf5ef6f5a462801a28fc023f551f229cfc34d21f24ddaf"
+python-versions = "^3.7"
+
+[metadata.files]
+pycharm-package = []
